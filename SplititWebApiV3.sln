@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplititWebApiV3.Standard", "SplititWebApiV3.Standard/SplititWebApiV3.Standard.csproj", "{adafab68-6e9e-4796-bbb2-9a82d136b2fa}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplititWebApiV3.Tests", "SplititWebApiV3.Tests/SplititWebApiV3.Tests.csproj", "{d7937644-9d65-4c5f-9f68-099e82d7defb}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {adafab68-6e9e-4796-bbb2-9a82d136b2fa}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {adafab68-6e9e-4796-bbb2-9a82d136b2fa}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {adafab68-6e9e-4796-bbb2-9a82d136b2fa}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {adafab68-6e9e-4796-bbb2-9a82d136b2fa}.Release|Any CPU.Build.0 = Release|Any CPU
+        {d7937644-9d65-4c5f-9f68-099e82d7defb}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {d7937644-9d65-4c5f-9f68-099e82d7defb}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {d7937644-9d65-4c5f-9f68-099e82d7defb}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {d7937644-9d65-4c5f-9f68-099e82d7defb}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+EndGlobal
